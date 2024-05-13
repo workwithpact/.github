@@ -16,7 +16,7 @@ Write a small description of the task here. Delete if not needed
 Place relevant images here
 
 ## Areas of Risks
-Please describe risks associated with this PR. Delete if not needed.
+Please describe risks associated with this PR, **especially as it relates to personal details or privacy concerns**. Delete if not needed.
 
 ## Testing Procedure
 Outline steps needed to test this feature. Delete if not needed or overkill.
